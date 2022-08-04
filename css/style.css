@@ -1,9 +1,15 @@
 html {
     font-size: 10px;
+    font-family: 'Poppins', sans-serif;
+}
+body {
+    background-color: lightgray;
 }
 
 h1 {
     color: red;
+    text-align: center;
+    text-decoration: underline;
 }
 
 h2 {
@@ -12,4 +18,16 @@ h2 {
 
 p {
     padding: 2rem 2rem 2rem 2rem;
+}
+
+p, h2{
+    padding: 1rem 10rem;
+    font-size: 2rem;
+    color: white;
+    
+}
+
+.caja {
+    background-color: black;
+    border-radius: 1rem;
 }
