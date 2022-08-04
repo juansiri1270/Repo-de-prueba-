@@ -20,13 +20,22 @@ p {
     padding: 2rem 2rem 2rem 2rem;
 }
 
-p, h2{
+p{
     padding: 1rem 10rem;
     font-size: 2rem;
     color: white;
     
 }
-
+h2{
+    padding: 1rem 10rem;
+    font-size: 4rem;
+    color:darkblue;
+}
+#ultimo{
+    padding: 1rem 10rem;
+    font-size: 4rem;
+    color:darkblue;
+}
 .caja {
     background-color: black;
     border-radius: 1rem;
